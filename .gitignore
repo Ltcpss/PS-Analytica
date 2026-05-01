@@ -1,5 +1,4 @@
 # Credenciais e segredos
-credentials.json
 *.json
 !package.json
 .env
